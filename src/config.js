@@ -3,13 +3,13 @@ const hacksMap = new Map([
 ])
 
 const config = {
-  defaultTargetHost: 'www.sandoche.com',
+  defaultTargetHost: 'www.is****.com',
   defaultHackId: 'hack',
   hacksMap,
   defaultHandler: 'block',
   typingInterval: 70,
   defaultBreakAfterCommand: 1000,
-  userPrefix: 'root@kali:~$'
+  userPrefix: 'xblankz147@kali:~$'
 }
 
 export default config
